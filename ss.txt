@@ -1,1 +1,2 @@
 this  is new file and modified with  some content
+ and agai modified with 2nd commit
